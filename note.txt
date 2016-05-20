@@ -1,0 +1,15 @@
+**
+http://coolshell.cn/articles/11564.html
+http://coolshell.cn/articles/11609.html
+
+**
+C:\Users\wangjian\AppData\Local\Unity\Editor
+
+** lockstep
+http://gafferongames.com/networked-physics/deterministic-lockstep/
+http://clintonbrennan.com/2013/12/lockstep-implementation-in-unity3d/
+http://clintonbrennan.com/2014/04/lockstep-implementation-in-unity3d-part-2/
+http://clintonbrennan.com/2014/01/simple-2d-deterministic-physics-simulation/
+https://github.com/ownself/LockStepModule
+https://github.com/InkhornGames/lockstep.io
+http://stackoverflow.com/questions/605124/fixed-point-math-in-c/616015#616015
