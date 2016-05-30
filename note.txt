@@ -1,11 +1,20 @@
 **
+http://www.znzs.com/topic/Hui-Bao-She-Hui-Shi-Jian-Dao--Android-wearZhu-Liu-Ban-Ben-Hui-Zong#txtContent
+**
+http://blog.csdn.net/candycat1992/article/details/41605257
+http://blog.csdn.net/candycat1992/article/details/47777937
+http://www.cnblogs.com/wonderKK/p/4266485.html
+
+**
 http://coolshell.cn/articles/11564.html
 http://coolshell.cn/articles/11609.html
 
 **
 C:\Users\wangjian\AppData\Local\Unity\Editor
+forward tcp:54999 localabstract:Unityinsert bundle identifier here
 
 ** lockstep
+http://www.gamasutra.com/view/feature/3094/
 http://gafferongames.com/networked-physics/deterministic-lockstep/
 http://clintonbrennan.com/2013/12/lockstep-implementation-in-unity3d/
 http://clintonbrennan.com/2014/04/lockstep-implementation-in-unity3d-part-2/
