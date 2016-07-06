@@ -1,5 +1,12 @@
+**
+msbuild.exe mono.sln /p:Configuration=Release_eglib
+http://richg42.blogspot.com/2015/05/industrial-strength-mono-memory.html
+http://www.gamasutra.com/blogs/RichGeldreich/20150731/250071/Lessons_Learned_While_Fixing_Memory_Leaks_in_our_First_Unity_Title.php
+http://www.gamasutra.com/blogs/WendelinReich/20131127/203843/C_Memory_Management_for_Unity_Developers_part_3_of_3.php
+
 http://www.51nb.com/xinwen/benzhanshiye/2016-06-21/76965_3.html
 http://costfine.blog.163.com/blog/static/213660015201211743645748/
+
 **
 http://doc.ulua.org/article/ulua/uluadaimazhongruhenewyigecduixiang20151109185630.html
 
