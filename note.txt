@@ -1,3 +1,9 @@
+http://www.gamasutra.com/blogs/KevinRyan/20150331/239636/The_Butterfly_Effect.php
+http://www.bepu-games.com/forum/viewtopic.php?f=4&t=2302
+http://rawkes.com/articles/creating-a-real-time-multiplayer-game-with-websockets-and-node.html
+http://stackoverflow.com/questions/605124/fixed-point-math-in-c
+http://ddeville.me/2014/04/dynamic-linking
+
 **
 msbuild.exe mono.sln /p:Configuration=Release_eglib
 http://richg42.blogspot.com/2015/05/industrial-strength-mono-memory.html
@@ -58,9 +64,11 @@ http://coolshell.cn/articles/11564.html
 http://coolshell.cn/articles/11609.html
 
 **
+C:\Users\wangjian\AppData\LocalLow\GF\u3dm
 C:\Users\wangjian\AppData\Local\Unity\Editor
 adb forward tcp:54999 localabstract:Unity-com.GF.dashenwang
 adb forward tcp:54999 localabstract:Unity-com.test.grass
+adb forward tcp:54999 localabstract:Unity-com.test.skin
 
 ** lockstep
 http://www.gamasutra.com/view/feature/3094/
