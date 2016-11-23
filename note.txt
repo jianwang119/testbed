@@ -1,3 +1,12 @@
+https://blogs.unity3d.com/cn/2015/02/18/working-with-physically-based-shading-a-practical-approach/
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+http://gcld.1188.com/game/play/?gid=51&sid=10885
+
+http://gad.qq.com/article/detail/7166492
+http://gad.qq.com/article/detail/7687
+https://unity3d.com/cn/learn/tutorials/topics/graphics/gentle-introduction-shaders?playlist=17102
+https://unity3d.com/cn/learn/tutorials/topics/best-practices
+https://docs.unity3d.com/Manual/LinearLighting.html
 http://www.gamasutra.com/blogs/KevinRyan/20150331/239636/The_Butterfly_Effect.php
 http://www.bepu-games.com/forum/viewtopic.php?f=4&t=2302
 http://rawkes.com/articles/creating-a-real-time-multiplayer-game-with-websockets-and-node.html
@@ -69,6 +78,7 @@ C:\Users\wangjian\AppData\Local\Unity\Editor
 adb forward tcp:54999 localabstract:Unity-com.GF.dashenwang
 adb forward tcp:54999 localabstract:Unity-com.test.grass
 adb forward tcp:54999 localabstract:Unity-com.test.skin
+adb forward tcp:54999 localabstract:Unity-com.GF.u3dm
 
 ** lockstep
 http://www.gamasutra.com/view/feature/3094/
