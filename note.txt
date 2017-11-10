@@ -1,3 +1,109 @@
+http://youxiputao.com/articles/11839
+http://blog.csdn.net/liangjinglong/article/details/78056157
+<quad name=Influence_03 size=40 width=1/>[asd]高菊进攻<quad name=Influence_03 size=40 width=1/>[222]窦姜胜利
+
+http://192.168.0.5/GF_Game_Assembly
+token=25fac5f6f4342b4d4f28861a7a7890fd88ea3575
+imei=862155038625900
+
+参数
+\\192.168.0.6\常用共享资源\技术支持中心\SDK支持部\手游\渠道SDK\1参数
+
+预发布
+BBWYLKECSFMDXEZGIMQBGPZXKO36QTOG5
+电信221.224.134.178 bojoy-quality  联通58.240.197.142 bojoy-zj
+
+
+IntelliJ IDEA 常用快捷键
+Ctrl+N 查找类 // 查找lua文件下面一条查找文件的命令更加实用
+Ctrl+Shift+N 查找文件
+CTRL+SHIFT+ALT+N 查找类中的方法或变量
+CIRL+B / F4 找变量的来源
+CTRL+G 定位行 / 跳转行
+Ctrl+Alt+L 格式化代码
+Ctrl+X 删除行
+Ctrl+D 复制行
+Ctrl+R 替换文本
+Ctrl+F 查找文本
+CIRL+U 大小写切换
+CTRL+Z 倒退
+Ctrl+P 方法参数提示
+CTRL+SHIFT+Z 向前
+CTRL+ALT+F12 资源管理器打开文件夹
+ALT+F1 查找文件所在目录位置
+Ctrl＋F12，可以显示当前文件的结构
+
+
+https://blog.uwa4d.com/archives/usparkle_luajit.html
+http://blog.csdn.net/column/details/14927.html
+http://gad.qq.com/article/detail/7191191
+http://developer.download.nvidia.com/CgTutorial/cg_tutorial_appendix_e.html
+http://docs.nvidia.com/tegra-graphics-debugger/2.0/index.html#developertools/mobile/tegra_graphics_debugger/tgd_setup_nonrooted.htm%3FTocPath%3DTegra%2520Graphics%2520Debugger%7C_____4
+
+GOIS账号
+用户名 wangjian
+密码 wangjian0620
+http://gois.9917.com/
+
+http://192.168.0.99/project-task-30.html
+
+#http(s)://$domain$/version/$appCode$/client/$operator$/1/clientConf.json?v=$curtime$
+#http(s)://$domain$/version/$appCode$/client/$operator$/1/server_list.json?v=$curtime$
+#http(s)://$domain$/rest/$appCode$/$operator$/login.do
+#LoginUrl=ClientConf.domain_proxy/rest
+裸包包名 com.GF.unity3dmcncn.hwyad
+好玩友渠道包包名 com.GF.unity3dmcncn.hwyad.hwy
+adb forward tcp:54999 localabstract:Unity-com.GF.unity3dmcncn.hwyad
+
+\\192.168.0.6\项目资源共享\研发部\SLG\版本库\01 每日客户端自动打包
+https://msdn.microsoft.com/zh-cn/library/az24scfc.aspx
+https://blog.uwa4d.com/archives/TechSharing_59.html
+SpriteToParticles
+
+https://github.com/lukego/blog/labels/luajit
+https://pwparchive.wordpress.com/2012/10/16/peeking-inside-luajit/
+https://www.freelists.org/post/luajit/how-to-read-the-source-codes-of-luajit,2
+https://www.lua.org/manual/5.3/manual.html#6.4.1
+http://lua-users.org/wiki/PatternsTutorial
+
+http://avnpc.com/pages/photoshop-layer-blending-algorithm
+http://www.cnblogs.com/zwywilliam/p/5999980.html
+
+c:\protobuf-2.4.1\src\protoc.exe --lua_out=./ --plugin=protoc-gen-lua="D:\works\unity\slua\protoc-gen-lua\plugin\protoc-gen-lua.bat" xxxx.proto
+
+
+http://blog.sina.com.cn/s/blog_4a657c5a0102vvyl.html
+
+http://www.dushu369.com/qtyd/HTML/83427.html
+
+https://bitbucket.org/ddreaper/unity-ui-extensions/downloads
+https://forum.unity3d.com/threads/sprite-icons-with-text-e-g-emoticons.265927/
+
+https://zh.wikipedia.org/wiki/Adreno
+https://github.com/msgpack/msgpack/blob/master/spec.md#float-format-family
+
+http://blog.csdn.net/candycat1992/article/details/39994049
+http://192.168.0.99/project-task-30.html
+
+https://blogs.unity3d.com/cn/2016/11/01/adam-demo-executable-and-assets-released/
+https://blogs.unity3d.com/cn/2017/01/04/adam-vfx-in-the-real-time-short-film/
+
+https://blogs.unity3d.com/cn/2015/02/18/working-with-physically-based-shading-a-practical-approach/
+http://outerra.blogspot.jp/2009/08/logarithmic-z-buffer.html
+
+http://192.168.0.7:4040/rest/Unity3dM_cn_cn/pc/login.do?pPort=123131&pModel=pc|pcwin32&pChannel=pc&pExt=&pWord=123&pDevice=&pOPR=pc&pSID=34800000&pMac=40-8D-5C-52-EA-AC&pVer=1.0.0
+http://palacecard.doc.bojoy.net/?id=95
+
+http://blog.csdn.net/ccanan/article/category/628147
+
+https://github.com/pangweiwei/slua/wiki/%E4%B8%AD%E6%96%87%E5%B8%AE%E5%8A%A9
+https://github.com/miloyip/game-programmer
+
+http://catlikecoding.com/unity/tutorials/rendering/part-3/
+http://catlikecoding.com/unity/tutorials/rendering/part-1/
+https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+https://docs.unity3d.com/Manual/SL-SurfaceShaderLightingExamples.html
+
 https://blogs.unity3d.com/cn/2015/02/18/working-with-physically-based-shading-a-practical-approach/
 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 http://gcld.1188.com/game/play/?gid=51&sid=10885
